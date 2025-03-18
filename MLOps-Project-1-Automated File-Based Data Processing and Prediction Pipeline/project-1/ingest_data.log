@@ -1,0 +1,4 @@
+2025-01-01 21:35:47,286:INFO:Copied sales_data.csv to data/processed/
+2025-01-01 21:35:47,286:INFO:Data ingestion completed successfully.
+2025-01-02 12:39:36,134:INFO:Copied sales_data.csv to data/processed/
+2025-01-02 12:39:36,134:INFO:Data ingestion completed successfully.

@@ -1,0 +1,12 @@
+2025-01-01 21:36:31,321:INFO:Loaded data from data/processed/sales_data.csv
+2025-01-01 21:36:31,321:INFO:Dropped rows with missing values. Shape: (30, 9)
+2025-01-01 21:36:31,324:INFO:Removed duplicates. Shape: (30, 9)
+2025-01-01 21:36:31,324:INFO:Data cleaned. Initial shape: (30, 9), Final shape: (30, 9)
+2025-01-01 21:36:31,325:INFO:Cleaned data saved to data/processed/cleaned_sales_data.csv
+2025-01-01 21:36:31,325:INFO:Data processing completed successfully.
+2025-01-02 12:40:25,146:INFO:Loaded data from data/processed/sales_data.csv
+2025-01-02 12:40:25,146:INFO:Dropped rows with missing values. Shape: (30, 9)
+2025-01-02 12:40:25,149:INFO:Removed duplicates. Shape: (30, 9)
+2025-01-02 12:40:25,149:INFO:Data cleaned. Initial shape: (30, 9), Final shape: (30, 9)
+2025-01-02 12:40:25,150:INFO:Cleaned data saved to data/processed/cleaned_sales_data.csv
+2025-01-02 12:40:25,150:INFO:Data processing completed successfully.

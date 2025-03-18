@@ -1,0 +1,76 @@
+Sales Data Analysis Report
+==========================
+
+=== Summary Statistics ===
+Total Revenue: 12430.56
+Total Cost: 10190.0
+Total Profit: 2240.5600000000004
+Average Units Sold: 14.8
+Average Unit Price: 88.48999999999997
+
+=== Sales by Category ===
+Category: Automotive
+  Total Revenue: $999.95
+  Total Profit: $399.95
+  Units Sold: 5
+
+Category: Beauty
+  Total Revenue: $809.73
+  Total Profit: $409.73
+  Units Sold: 27
+
+Category: Books
+  Total Revenue: $1394.07
+  Total Profit: $994.07
+  Units Sold: 93
+
+Category: Electronics
+  Total Revenue: $4499.85
+  Total Profit: $-1500.15
+  Units Sold: 15
+
+Category: Fashion
+  Total Revenue: $1349.73
+  Total Profit: $449.73
+  Units Sold: 27
+
+Category: Garden
+  Total Revenue: $209.94
+  Total Profit: $59.94
+  Units Sold: 6
+
+Category: Groceries
+  Total Revenue: $538.20
+  Total Profit: $298.20
+  Units Sold: 180
+
+Category: Health
+  Total Revenue: $249.90
+  Total Profit: $99.90
+  Units Sold: 10
+
+Category: Home Appliances
+  Total Revenue: $1079.88
+  Total Profit: $629.88
+  Units Sold: 12
+
+Category: Sports
+  Total Revenue: $299.95
+  Total Profit: $49.95
+  Units Sold: 5
+
+Category: Stationery
+  Total Revenue: $119.80
+  Total Profit: $69.80
+  Units Sold: 20
+
+Category: Toys
+  Total Revenue: $879.56
+  Total Profit: $279.56
+  Units Sold: 44
+
+=== Monthly Trends ===
+Month: 2024-01
+  Total Revenue: $12430.56
+  Total Profit: $2240.56
+

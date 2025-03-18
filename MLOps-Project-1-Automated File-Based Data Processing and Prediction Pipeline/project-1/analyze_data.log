@@ -1,0 +1,48 @@
+2025-01-01 21:37:06,333:INFO:Loaded cleaned data from data/processed/cleaned_sales_data.csv
+2025-01-01 21:37:06,334:INFO:Calculated summary statistics.
+2025-01-01 21:37:06,336:INFO:Calculated sales by category.
+2025-01-01 21:37:06,339:INFO:Analyzed monthly trends.
+2025-01-01 21:37:06,339:INFO:Generated all insights.
+2025-01-01 21:38:26,016:INFO:Loaded cleaned data from data/processed/cleaned_sales_data.csv
+2025-01-01 21:38:26,018:INFO:Calculated summary statistics.
+2025-01-01 21:38:26,021:INFO:Calculated sales by category.
+2025-01-01 21:38:26,023:INFO:Analyzed monthly trends.
+2025-01-01 21:38:26,023:INFO:Generated all insights.
+2025-01-01 21:38:26,024:INFO:Report generated and saved to reports/analysis_report.txt
+2025-01-01 21:38:26,024:INFO:Report generation completed successfully.
+2025-01-01 21:40:10,265:INFO:Calculated summary statistics.
+2025-01-01 21:40:10,268:INFO:Generated all insights.
+2025-01-01 21:40:10,271:ERROR:Error analyzing monthly trends: maximum recursion depth exceeded
+2025-01-01 21:40:10,284:INFO:Calculated sales by category.
+2025-01-01 21:40:47,271:INFO:Calculated summary statistics.
+2025-01-01 21:40:47,272:INFO:Generated all insights.
+2025-01-01 21:40:47,274:ERROR:Error analyzing monthly trends: maximum recursion depth exceeded
+2025-01-01 21:40:47,285:INFO:Calculated sales by category.
+2025-01-01 21:40:47,286:ERROR:Error during data ingestion: Copy failed
+2025-01-01 21:40:47,287:WARNING:No data files found in data/raw/.
+2025-01-01 21:40:47,287:INFO:Created processed data directory at data/processed/
+2025-01-01 21:40:47,288:INFO:Copied sales_data.csv to data/processed/
+2025-01-01 21:40:47,288:INFO:Copied extra_data.json to data/processed/
+2025-01-01 21:40:47,288:INFO:Data ingestion completed successfully.
+2025-01-01 21:40:47,289:INFO:Dropped rows with missing values. Shape: (4, 3)
+2025-01-01 21:40:47,290:INFO:Removed duplicates. Shape: (3, 3)
+2025-01-01 21:40:47,290:INFO:Data cleaned. Initial shape: (4, 3), Final shape: (3, 3)
+2025-01-01 21:40:47,291:INFO:Dropped rows with missing values. Shape: (2, 3)
+2025-01-01 21:40:47,291:INFO:Removed duplicates. Shape: (2, 3)
+2025-01-01 21:40:47,291:INFO:Data cleaned. Initial shape: (4, 3), Final shape: (2, 3)
+2025-01-01 21:40:47,293:ERROR:File data/processed/sales_data.csv not found.
+2025-01-01 21:40:47,294:INFO:Loaded data from data/processed/sales_data.csv
+2025-01-01 21:40:47,295:ERROR:Error saving cleaned data: Save failed
+2025-01-01 21:40:47,297:INFO:Cleaned data saved to data/processed/cleaned_sales_data.csv
+2025-01-02 12:40:47,152:INFO:Loaded cleaned data from data/processed/cleaned_sales_data.csv
+2025-01-02 12:40:47,153:INFO:Calculated summary statistics.
+2025-01-02 12:40:47,155:INFO:Calculated sales by category.
+2025-01-02 12:40:47,158:INFO:Analyzed monthly trends.
+2025-01-02 12:40:47,158:INFO:Generated all insights.
+2025-01-02 12:41:09,406:INFO:Loaded cleaned data from data/processed/cleaned_sales_data.csv
+2025-01-02 12:41:09,407:INFO:Calculated summary statistics.
+2025-01-02 12:41:09,407:INFO:Calculated sales by category.
+2025-01-02 12:41:09,409:INFO:Analyzed monthly trends.
+2025-01-02 12:41:09,409:INFO:Generated all insights.
+2025-01-02 12:41:09,410:INFO:Report generated and saved to reports/analysis_report.txt
+2025-01-02 12:41:09,410:INFO:Report generation completed successfully.
