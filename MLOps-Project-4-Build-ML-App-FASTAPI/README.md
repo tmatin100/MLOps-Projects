@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Running the server
 `uvicorn main:app --reload`
-## `uvicorn main:my_first_api --reload`
+#`uvicorn main:my_first_api --reload`
 
 The command `uvicorn main:app` refers to:
 - main: the file main.py (the Python "module").
