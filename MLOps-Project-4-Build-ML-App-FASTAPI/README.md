@@ -1,4 +1,4 @@
-# Setup Virtual Environment
+## Setup Virtual Environment
 
 ```python
 conda create -n fastapi-env python=3.10
@@ -6,9 +6,9 @@ conda activate fastapi-env
 pip install -r requirements.txt
 ```
 
-# Running the server
+## Running the server
 `uvicorn main:app --reload`
-# `uvicorn main:my_first_api --reload`
+## `uvicorn main:my_first_api --reload`
 
 The command `uvicorn main:app` refers to:
 - main: the file main.py (the Python "module").
