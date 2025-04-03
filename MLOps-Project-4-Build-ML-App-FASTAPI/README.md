@@ -10,8 +10,7 @@ pip install -r requirements.txt
 
 ## Running the server
 `uvicorn main:app --reload`
-
- other example :  #`uvicorn main:my_first_api --reload`
+#### `uvicorn main:my_first_api --reload`
 
 The command `uvicorn main:app` refers to:
 - main: the file main.py (the Python "module").
@@ -19,6 +18,10 @@ The command `uvicorn main:app` refers to:
 - --reload: make the server restart after code changes. Only use for development.
 
 
+```json
+Yes
+
+```
 
 ```bash
 curl -X 'POST' \
