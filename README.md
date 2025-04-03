@@ -30,22 +30,35 @@ Each project demonstrates different aspects of the MLOps lifecycle — from data
 
 ---
 
+## 🧪 Upcoming Projects (In Progress / Planned)
+
+- 🔄 **CI/CD for ML with GitHub Actions**
+- ☁️ **Model Deployment on AWS Sagemaker / GCP Vertex AI**
+- 🔁 **ML Pipelines with Kubeflow / MLflow**
+- 🧠 **Monitoring and Drift Detection with Prometheus and EvidentlyAI**
+- 🧰 **End-to-End Project with Airflow, MLflow, and Docker Compose**
+- 📊 **Experiment Tracking and Hyperparameter Tuning with Optuna**
+
+> ⚠️ These projects are currently in progress or planned for future development. Stay tuned by starring the repo!
+
+---
+
 ## 🧰 Tech Stack and Tools
 
 - **Languages**: Python, Bash  
 - **ML Libraries**: scikit-learn, Pandas, NumPy, FastAPI  
-- **DevOps Tools**: Git, GitHub, Docker, DVC  
+- **DevOps & MLOps Tools**: Git, GitHub, Docker, DVC, MLflow, Airflow, Prometheus  
 - **Other Tools**: Jupyter Notebooks, VS Code  
 
 ---
 
 ## 📌 Why This Repo?
 
-MLOps is essential for productionizing machine learning models at scale. These projects reflect my learning and practical experience in:
-- Bridging the gap between data science and engineering
-- Automating ML workflows
-- Ensuring model traceability and reproducibility
-- Building scalable, testable, and deployable ML systems
+MLOps is essential for scaling machine learning from notebooks to real-world production systems. These projects reflect my learning and practical experience in:
+- Bridging the gap between data science and DevOps
+- Automating and scaling ML workflows
+- Ensuring traceability, reproducibility, and monitoring
+- Building resilient, testable, and deployable ML systems
 
 ---
 
@@ -54,8 +67,8 @@ MLOps is essential for productionizing machine learning models at scale. These p
 Feel free to connect with me or ask questions!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tmatin)
-- 📧 Email: tmatin100@gmail.com
+- 📧 Email: **tmatin100@gmail.com**
 
 ---
 
-> ⭐ If you find this repository useful or inspiring, please give it a star and share your thoughts!
+> ⭐ If you find this repository helpful or inspiring, please consider giving it a star. Contributions and feedback are always welcome!
