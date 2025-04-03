@@ -32,14 +32,20 @@ Each project demonstrates different aspects of the MLOps lifecycle — from data
 
 ## 🧪 Upcoming Projects (In Progress / Planned)
 
-- 🔄 **CI/CD for ML with GitHub Actions**
-- ☁️ **Model Deployment on AWS Sagemaker / GCP Vertex AI**
-- 🔁 **ML Pipelines with Kubeflow / MLflow**
-- 🧠 **Monitoring and Drift Detection with Prometheus and EvidentlyAI**
-- 🧰 **End-to-End Project with Airflow, MLflow, and Docker Compose**
-- 📊 **Experiment Tracking and Hyperparameter Tuning with Optuna**
+### 🚧 Project 6: Container Orchestration with Kubernetes
+- Deploy and scale ML microservices using Kubernetes, Helm, and Kustomize.
 
-> ⚠️ These projects are currently in progress or planned for future development. Stay tuned by starring the repo!
+### 🔜 Project 7: ML Pipelines with Kubeflow / MLflow
+- Design reproducible training workflows with experiment tracking and auto-deployment.
+
+### 🔜 Project 8: Model Deployment on AWS Sagemaker / GCP Vertex AI
+- Serve trained models using managed cloud services with autoscaling and monitoring.
+
+### 🔜 Project 9: Monitoring and Drift Detection with Prometheus and EvidentlyAI
+- Implement model health dashboards and detect prediction drift in real-time.
+
+### 🔜 Project 10: Experiment Tracking and Hyperparameter Tuning with Optuna
+- Automate tuning pipelines with Optuna and track experiments using MLflow UI.
 
 ---
 
@@ -47,9 +53,9 @@ Each project demonstrates different aspects of the MLOps lifecycle — from data
 
 - **Languages**: Python, Bash  
 - **ML Libraries**: scikit-learn, Pandas, NumPy, FastAPI  
-- **DevOps & MLOps Tools**: Git, GitHub, Docker, DVC, MLflow, Airflow, Prometheus  
-- **Other Tools**: Jupyter Notebooks, VS Code  
-
+- **DevOps & MLOps Tools**: Git, GitHub, Docker, Kubernetes, DVC, MLflow, Airflow, Prometheus, Optuna  
+- **Other Tools**: Jupyter Notebooks, VS Code
+  
 ---
 
 ## 📌 Why This Repo?
