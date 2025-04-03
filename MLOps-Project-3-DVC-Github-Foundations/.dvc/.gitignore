@@ -1,0 +1,8 @@
+.dvc/
+*.dvc
+data/
+__pycache__/
+*.pyc
+/config.local
+/tmp
+/cache
