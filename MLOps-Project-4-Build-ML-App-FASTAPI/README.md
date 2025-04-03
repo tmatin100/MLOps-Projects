@@ -19,10 +19,6 @@ The command `uvicorn main:app` refers to:
 - --reload: make the server restart after code changes. Only use for development.
 
 
-```json
-Yes
-
-```
 
 ```bash
 curl -X 'POST' \
