@@ -1,0 +1,4 @@
+openai
+fastapi
+uvicorn[standard]docker --version
+docker run hello-world
