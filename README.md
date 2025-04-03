@@ -52,15 +52,14 @@ Each project demonstrates different aspects of the MLOps lifecycle — from data
 
 
 ---
-
 ## 🧰 Tech Stack and Tools
 
 - **Languages**: Python, Bash  
-- **ML Libraries**: scikit-learn, Pandas, NumPy, FastAPI  
-- **DevOps & MLOps Tools**: Git, GitHub, Docker, Kubernetes, DVC, MLflow, Airflow, Prometheus, Optuna  
-- **Other Tools**: Jupyter Notebooks, VS Code  
-
-
+- **ML Libraries**: scikit-learn, pandas, numpy, joblib, pydantic  
+- **DevOps & MLOps Tools**: Git, GitHub, Docker, Kubernetes, DVC, MLflow, Airflow, Prometheus  
+- **Serving & APIs**: FastAPI, Uvicorn, OpenAI  
+- **Other Tools**: Jupyter Notebooks, VS Code
+  
 ---
 
 ## 📌 Why This Repo?
