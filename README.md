@@ -56,7 +56,7 @@ Each project demonstrates different aspects of the MLOps lifecycle — from data
 
 - **Languages**: Python, Bash  
 - **ML Libraries**: scikit-learn, pandas, numpy, joblib, pydantic  
-- **DevOps & MLOps Tools**: Git, GitHub, Docker, Kubernetes, DVC, MLflow, Airflow, Prometheus  
+- **DevOps & MLOps Tools**: DVC, Git, GitHub, Docker, Kubernetes,  MLflow, Airflow, Prometheus  
 - **Serving & APIs**: FastAPI, Uvicorn, OpenAI  
 - **Other Tools**: Jupyter Notebooks, VS Code
   
