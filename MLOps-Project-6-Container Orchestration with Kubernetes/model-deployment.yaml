@@ -1,0 +1,61 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: model
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: model
+  template:
+    metadata:
+      labels:
+        app: model
+    spec:
+      containers:
+      - name: model
+        image: manifoldailearning/k8schatbot:ai-model
+        ports:
+        - containerPort: 11434
+        env:
+        - name: MODEL
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: MODEL
+        volumeMounts:
+        - name: model-data
+          mountPath: /root/.ollama
+        resources:
+          limits:
+            memory: "8Gi"
+          requests:
+            memory: "4Gi"
+        readinessProbe:
+          httpGet:
+            path: /api/tags
+            port: 11434
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        livenessProbe:
+          httpGet:
+            path: /api/tags
+            port: 11434
+          initialDelaySeconds: 30
+          periodSeconds: 10
+      volumes:
+      - name: model-data
+        persistentVolumeClaim:
+          claimName: model-data-pvc
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: model
+spec:
+  selector:
+    app: model
+  ports:
+  - port: 11434
+    targetPort: 11434
+  type: ClusterIP 
