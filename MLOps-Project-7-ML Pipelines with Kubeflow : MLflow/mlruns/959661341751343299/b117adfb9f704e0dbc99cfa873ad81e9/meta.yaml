@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nachikethpro/Desktop/author-repo/silver-membership/mission-7/mlruns/959661341751343299/b117adfb9f704e0dbc99cfa873ad81e9/artifacts
+end_time: 1744303116051
+entry_point_name: ''
+experiment_id: '959661341751343299'
+lifecycle_stage: active
+run_id: b117adfb9f704e0dbc99cfa873ad81e9
+run_name: rogue-bear-636
+run_uuid: b117adfb9f704e0dbc99cfa873ad81e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744303109961
+status: 3
+tags: []
+user_id: nachikethpro
